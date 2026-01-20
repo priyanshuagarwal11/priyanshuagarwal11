@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Building full-stack web applications and contributing to GSSoC projects.<br><br>👯 I’m looking to collaborate on: Open-source projects specifically in Web Development and Data Science.<br><br>🤝 I’m looking for help with: Mastering system design and exploring new libraries in React.js and Node.js.<br><br>🌱 I’m currently learning: Advanced backend optimization and the latest trends in DevOps.<br><br>💬 Ask me about: Python, JavaScript, MERN Stack, and how to start with Open Source.<br><br>⚡ Fun fact: I love participating in hackathons and I'm always up for a good coding challenge!
+🔭 I’m currently working on: Building full-stack web applications and contributing to GSSoC projects.<br><br>👯 I’m looking to collaborate on: Open-source projects specifically in Web Development and Data Science.<br><br>🤝 I’m looking for help with: Mastering system design and exploring new libraries in React.js and Node.js.<br><br>🌱 I’m currently learning: Advanced backend optimization and the latest trends in DevOps.<br><br>💬 Ask me about: Python, JavaScript, MERN Stack, and how to start with Open Source.<br><br>⚡ Fun fact: I love participating in hackathons, and I'm always up for a good coding challenge!
 
 
 ## 🌐 Socials:
